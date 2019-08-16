@@ -1,3 +1,5 @@
+
+![SAMBA Deployment](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
 ## Compilers (CSCD415) 
 
 Department of Computer Science, University of Ghana
