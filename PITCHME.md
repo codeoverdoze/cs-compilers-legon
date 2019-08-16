@@ -1,5 +1,11 @@
 
 ![UG Logo](assets/img/ug_logo.png)
+
+@snap[north-west span-50]
+### Week 1
+@snapend
+
+
 ### Compilers (CSCD415) 
 
 Department of Computer Science
