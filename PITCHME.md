@@ -1,5 +1,5 @@
 
-![UG Logo](https://www.mignex.org/sites/default/files/styles/logo_image_single/public/2019-03/UNIVERSITY%20OF%20GHANA%20LOGO.png?itok=kej5I6Dm)
+![UG Logo](assets/img/ug_logo.png)
 ## Compilers (CSCD415) 
 
 Department of Computer Science, University of Ghana
