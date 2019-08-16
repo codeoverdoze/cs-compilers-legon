@@ -1,8 +1,8 @@
 
 ![UG Logo](assets/img/ug_logo.png)
-## Compilers (CSCD415) 
+### Compilers (CSCD415) 
 
-Department of Computer Science, University of Ghana
+Department of Computer Science
 
 ---
 
