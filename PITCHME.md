@@ -1,6 +1,6 @@
-# Flux 
+# Compilers (CSCD415) 
 
-An application architecture for React
+Department of Computer Science, University of Ghana
 
 ---
 
