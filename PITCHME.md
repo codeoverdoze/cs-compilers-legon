@@ -31,3 +31,10 @@ Department of Computer Science
 
 
 ---
+@snap[north-west span-80 h4-black]
+#### Course Information...
+@snapend
+
+- Instructor: Michael Agbo Tettey Soli[msoli@ug.edu.gh]
+- Teaching Assistant: Pius []
+- Lecture Times: Mon. 5:30PM - 7:20PM, Fri. 9:30 - 10-20AM
