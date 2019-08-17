@@ -12,12 +12,12 @@ Department of Computer Science
 
 ---
 
-@snap[north-west h4-white]
+@snap[north-west h4-black]
 #### Introduction to Compilers...
 @snapend
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced text-black]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
