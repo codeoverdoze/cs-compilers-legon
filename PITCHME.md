@@ -26,7 +26,7 @@ Department of Computer Science
 @snapend
 
 @snap[east span-45]
-@img[shadow](https://c7.uihere.com/files/782/279/783/gear-computer-icons-icon-design-bbq.jpg)
+@img[shadow](https://gifprint.s3.amazonaws.com/p/gif/84587/746e7e20494d013780144226284bd867.gif)
 @snapend
 
 
