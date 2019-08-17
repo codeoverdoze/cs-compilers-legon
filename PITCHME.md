@@ -12,7 +12,7 @@ Department of Computer Science
 
 ---
 
-@snap[north-west h4-black]
+@snap[north-west span-50 h4-black]
 #### Introduction to Compilers...
 @snapend
 
