@@ -16,7 +16,7 @@ Department of Computer Science
 #### Introduction to Compilers...
 @snapend
 
-@snap[west span-66]
+@snap[west span-80]
 @ul[spaced text-black]
 - Course Description and Information
 - Why do we study compilers?
