@@ -16,12 +16,12 @@ Department of Computer Science
 #### Introduction to Compilers...
 @snapend
 
-@snap[west span-55]
+@snap[west span-33]
 @ul[spaced text-black]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Course Description and Information
+- Why do we study compilers?
+- The structure of a modern compiler
+- A simple walkthrough the process of compilation with sample code
 @ulend
 @snapend
 
