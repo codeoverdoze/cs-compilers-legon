@@ -25,7 +25,7 @@ Department of Computer Science
 @ulend
 @snapend
 
-@snap[east span-45]
+@snap[east span-25]
 @img[shadow](https://gifprint.s3.amazonaws.com/p/gif/84587/746e7e20494d013780144226284bd867.gif)
 @snapend
 
