@@ -26,10 +26,8 @@ Department of Computer Science
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/2540582_0.jpg)
+@img[shadow](https://c7.uihere.com/files/782/279/783/gear-computer-icons-icon-design-bbq.jpg)
 @snapend
 
 
 ---
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
