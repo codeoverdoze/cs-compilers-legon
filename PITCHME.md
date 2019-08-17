@@ -25,6 +25,10 @@ Department of Computer Science
 @ulend
 @snapend
 
+@snap[east span-45]
+@img[shadow](assets/img/ug_logo.png)
+@snapend
+
 
 ---
 
