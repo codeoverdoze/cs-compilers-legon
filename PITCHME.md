@@ -25,9 +25,6 @@ Department of Computer Science
 @ulend
 @snapend
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
 
 ---
 
